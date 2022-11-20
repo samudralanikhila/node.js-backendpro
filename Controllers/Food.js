@@ -39,7 +39,7 @@ const  Food = (req,res) =>{
                 tittle:"Pumpkin Bread ",
                 dis:"Pumpkin goes perfectly with chocolate, cranberries and a whole lot more, especially when baked into a delicious quick bread.",
                 travel:"Travel / August-19-2022",
-                "number":"5",
+                number:"5",
                 name:"niki"
             }
         ]
